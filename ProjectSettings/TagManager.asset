@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  - hazard
+  - powerup
+  - finger
+  - superCeiling
+  - floor
+  - Ceiling
+  - Platform Floor
+  - Platform Ceiling
+  - player
+  - powerup1
+  - powerup2
+  - powerup3
+  - powerup4
+  - hazard1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Finger
+  - PowerUpLayer
+  - BlockingLayer
+  - PlayerLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 1
+    uniqueID: 2228620953
+    locked: 0
+  - name: Background 2
+    uniqueID: 3476389881
+    locked: 0
+  - name: Boundaries
+    uniqueID: 2023154163
+    locked: 0
+  - name: Gameplay
+    uniqueID: 2407725307
+    locked: 0

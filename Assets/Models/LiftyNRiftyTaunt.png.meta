@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 1e91c92fecb3acd4d826355c93a77771
+timeCreated: 1512787377
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LiftyTaunt_0
+    21300002: LiftyTaunt_1
+    21300004: LiftyTaunt_2
+    21300006: LiftyNRiftyTaunt_3
+    21300008: LiftyTaunt_5
+    21300010: LiftyNRiftyTaunt_5
+    21300012: LiftyNRiftyTaunt_6
+    21300014: LiftyTaunt_3
+    21300016: LiftyTaunt_4
+    21300018: LiftyNRiftyTaunt_9
+    21300020: LiftyNRiftyTaunt_10
+    21300022: LiftyNRiftyTaunt_11
+    21300024: LiftyNRiftyTaunt_12
+    21300026: RiftyTaunt_0
+    21300028: LiftyNRiftyTaunt_14
+    21300030: RiftyTaunt_1
+    21300032: LiftyNRiftyTaunt_16
+    21300034: LiftyNRiftyTaunt_17
+    21300036: LiftyNRiftyTaunt_18
+    21300038: LiftyNRiftyTaunt_19
+    21300040: LiftyNRiftyTaunt_20
+    21300042: LiftyNRiftyTaunt_21
+    21300044: RiftyTaunt_5
+    21300046: LiftyNRiftyTaunt_23
+    21300048: RiftyTaunt_2
+    21300050: RiftyTaunt_3
+    21300052: RiftyTaunt_4
+    21300054: LiftyNRiftyTaunt_27
+    21300056: LiftyNRiftyTaunt_28
+    21300058: LiftyNRiftyTaunt_29
+    21300060: LiftyNRiftyTaunt_30
+    21300062: LiftyNRiftyTaunt_31
+    21300064: LiftyNRiftyTaunt_32
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LiftyTaunt_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1595
+        width: 848
+        height: 990
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiftyTaunt_1
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1581
+        width: 868
+        height: 992
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiftyTaunt_2
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1578
+        width: 849
+        height: 986
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiftyTaunt_5
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 1554
+        width: 856
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiftyTaunt_3
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1559
+        width: 851
+        height: 994
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiftyTaunt_4
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 1562
+        width: 871
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RiftyTaunt_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 190
+        width: 639
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RiftyTaunt_1
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 164
+        width: 640
+        height: 1094
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RiftyTaunt_5
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 155
+        width: 767
+        height: 1105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RiftyTaunt_2
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 147
+        width: 744
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RiftyTaunt_3
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 147
+        width: 638
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RiftyTaunt_4
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 155
+        width: 771
+        height: 1130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
